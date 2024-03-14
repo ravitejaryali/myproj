@@ -1,0 +1,1 @@
+I am adding ssh to the local git for the next time git push it wont asks password
